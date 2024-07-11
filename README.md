@@ -5,9 +5,13 @@
     Sentence Transformers
     GloVe Embeddings
     Project Structure
+
     Sentiment_Analysis_Twitter.ipynb: The main Jupyter Notebook containing the code and analysis for the sentiment analysis task.
+
     data/: Directory containing the dataset of tweets.
+
     models/: Directory where trained models are saved.
+
     results/: Directory where the results of the analysis, such as evaluation metrics and plots, are stored.
   
   - Dependencies
